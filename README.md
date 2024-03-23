@@ -32,7 +32,7 @@ Welcome to Splitter 3, an advanced software tool designed for analyzing variable
 3. **Run Splitter:**
    - Execute the following command to open the Splitter software:
      ```powershell
-     python C:\path\to\Splitter_main.py
+     python C:\path\to\Splitter_main_v2.py
      ```
 
 ![splitter_interface](https://github.com/NUAAR/Splitter/assets/157857913/7439fe12-f3ce-4244-82a5-c383dedf6e00)
@@ -56,7 +56,7 @@ The algorithm consists of three main parts: smoothing, separation, and verificat
 
 ### Upload Data
 
-1. Click on "Open Light Curve File" to select a .tess file or input the file path in the textbox.
+1. To open a light curve file, you can either click on the "Open Light Curve File" button and select a .tess file or manually enter the file path in the textbox. The latest version of Splitter also allows you to download FITS type files.
 
 2. View the interactive light curve plot.
 
